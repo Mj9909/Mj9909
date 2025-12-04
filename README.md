@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mritunjay Dwivedi</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Cloud & DevOps from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mj9909&label=Profile%20views&color=0e75b6&style=flat" alt="mj9909" /> </p>
 
@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/108ji" target="blank"><img src="https://img.shields.io/twitter/follow/108ji?logo=twitter&style=for-the-badge" alt="108ji" /></a> </p>
 
-- 🔭 I’m currently working on **Android**
+- 🔭 I’m currently working on **Cloud**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **k8s**
 
-- 👯 I’m looking to collaborate on **Application development Projects**
+- 👯 I’m looking to collaborate on **Cloud and Open Source Projects**
 
-- 🤝 I’m looking for help with **Java, Koltin, Dart, C++**
+- 🤝 I’m looking for help with **AWS, GCloud, K8s, Docker, Java, Koltin, Dart, C++**
 
 - 📝 I regularly write articles on [https://medium.com/@mritunjay.lu.9](https://medium.com/@mritunjay.lu.9)
 
-- 💬 Ask me about **JAVA**
+- 💬 Ask me about **Cloud & DevOps**
 
 - 📫 How to reach me **mritunjay.lu.9@gmail.com**
 
